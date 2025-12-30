@@ -1,0 +1,16 @@
+# FastAPI and server dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# Deep Learning
+tensorflow==2.15.0
+keras==2.15.0
+
+# Image Processing
+Pillow==10.1.0
+numpy==1.24.3
+
+# CORS support (included in FastAPI but explicit)
+# No additional CORS package needed
+
